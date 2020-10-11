@@ -1,4 +1,5 @@
 # JavaAutomationPrograms
+Performance wise better approaches are considered and practised writing programs
 Programs
 --------
 (1) Palindrome
